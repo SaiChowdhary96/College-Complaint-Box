@@ -7,6 +7,11 @@ This is an android application which helps the students to place a complaint aga
 * **Android Studio (https://developer.android.com/studio/)**
 * **Java JDK (https://www.oracle.com/technetwork/java/javase/downloads/index.html)**
 
+### Technologies used
+* **Java**
+* **XML**
+* **Firebase Databse**
+
 ### Steps to run this project
 * Extract **'Project.zip'** and place those files in the project folder
 * Open this project in the Android Studio.
